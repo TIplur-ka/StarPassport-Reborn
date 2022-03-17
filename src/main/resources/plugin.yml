@@ -1,0 +1,6 @@
+name: StarPassport
+version: '${project.version}'
+main: necode.angelitex.tiplur.starpassport.StarPassport
+api-version: 1.16
+authors: [ TIplur ]
+website: https://vk.com/angelitex
